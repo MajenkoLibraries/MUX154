@@ -1,0 +1,12 @@
+Source: libmux154
+Section: libraries
+Priority: extra
+XBSC-Group: IO
+Maintainer: Matt Jenkins <matt@majenko.co.uk>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+
+Package: libmux154
+Architecture: all
+Description: MUX154 library
+
