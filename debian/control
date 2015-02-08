@@ -8,5 +8,6 @@ Standards-Version: 3.9.4
 
 Package: libmux154
 Architecture: all
+Provides: MUX154.h
 Description: MUX154 library
 
