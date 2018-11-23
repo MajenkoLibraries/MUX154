@@ -1,0 +1,17 @@
+{
+    "name": "MUX154",
+    "provides": "MUX154.h",
+    "license": "LICENSE.md",
+    "readme": "README.md",
+    "description": "Simple class to control a 74154 MUX",
+    "category": "IO",
+    "subcategory": "Digital",
+    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
+    "version": "1.0.4",
+    "family": "all",
+    "core": "all",
+    "install": {
+        "MUX154.cpp": "/",
+        "MUX154.h": "/"
+    }
+}
